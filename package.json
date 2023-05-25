@@ -1,0 +1,20 @@
+{
+  "name": "virtusa_engineering_equity_team_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaswi/Virtusa_Engineering_Equity_Team_11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaswi/Virtusa_Engineering_Equity_Team_11/issues"
+  },
+  "homepage": "https://github.com/Yaswi/Virtusa_Engineering_Equity_Team_11#readme"
+}
